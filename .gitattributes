@@ -2,3 +2,6 @@
 * text=auto
 DatasetGridnode_modules filter=lfs diff=lfs merge=lfs -text
 C:/Users/VincentSierota/OneDrive[[:space:]]-[[:space:]]vinecksie/PL-400/PocketInvest/Components/DatasetGrid/node_modules filter=lfs diff=lfs merge=lfs -text
+C:/Users/VincentSierota/OneDrive/[[:space:]]-/[[:space:]]vinecksie/PL-400/PocketInvest/Components/DatasetGrid/node_modules[[:space:]]filter=lfs[[:space:]]diff=lfs[[:space:]]merge=lfs[[:space:]]-text
+ filter=lfs diff=lfs merge=lfs -text
+C:/Users/VincentSierota/OneDrive/[[:space:]]-/[[:space:]]vinecksie/PL-400/PocketInvest/Components/DatasetGrid/node_modules filter=lfs diff=lfs merge=lfs -text
