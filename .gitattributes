@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 DatasetGridnode_modules filter=lfs diff=lfs merge=lfs -text
+C:/Users/VincentSierota/OneDrive[[:space:]]-[[:space:]]vinecksie/PL-400/PocketInvest/Components/DatasetGrid/node_modules filter=lfs diff=lfs merge=lfs -text
